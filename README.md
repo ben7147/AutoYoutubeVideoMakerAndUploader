@@ -21,3 +21,6 @@ Get memes from MyMemes folder (Upload memes there(name starts with Screenshot))
 Change YourClientIdHere to your actual client id (from google developer console)
 
 Change YourClientSecretHere to your actual client secret (from google developer console)
+
+
+You obviosly have to change the VideoTemplate.mp4 to an actual video (w/ the same name)
