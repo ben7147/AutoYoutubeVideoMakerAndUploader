@@ -3,7 +3,7 @@
 **requirements:**
 python
 
-requests
+pip install requests
 PIL
 os
 io
