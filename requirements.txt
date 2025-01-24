@@ -1,5 +1,5 @@
 requests
-pillow
+pillow==9.5.0
 moviepy
 google-api-python-client
 oauth2client
